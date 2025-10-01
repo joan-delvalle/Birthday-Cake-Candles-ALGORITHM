@@ -1,1 +1,1 @@
-# Birthday-Cake-Candles-ALGORITHM
+# Birthday-Cake-Candles-ALGORITHM This program finds how many candles on a birthday cake are the tallest. It first gets the maximum height from the list, then counts how many candles have that height, and prints the result.
